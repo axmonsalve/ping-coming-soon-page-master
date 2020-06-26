@@ -147,7 +147,6 @@ footer .footer-social-icons .social-icon-circle {
   padding: 5px;
   border-radius: 100%;
   margin: 0 .5rem;
-  cursor: pointer;
 }
 
 footer p {
@@ -182,6 +181,7 @@ footer p {
   }
   form button:hover {
     background: var(--BlueHover);
+    cursor: pointer;
   }
   footer i:hover {
     cursor: pointer;
